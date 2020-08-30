@@ -7,9 +7,4 @@
 - 📚 &nbsp; Learning more about Swift and iOS native development
 - 🎓 &nbsp; Studying Computer Engineering at [FING UdelaR](https://www.fing.edu.uy/)
 - 🛠 &nbsp; Building amazing things with React Native, React, Typescript, Firebase, NodeJS
-
-#### Get in touch
-
-- 📫 &nbsp; Drop me an <a href="mailto:donatoaguirre24@gmail.com">Email</a>
 - 🔗 &nbsp; Reach me on <a href="https://www.linkedin.com/in/donatoaguirre24/">LinkedIn</a>
-- 🐦 &nbsp; Follow me on <a href="https://twitter.com/donatoaguirre24/">Twitter</a>
