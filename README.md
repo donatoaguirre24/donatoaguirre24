@@ -1,8 +1,6 @@
 ### Hi there, I'm Donato 👋🏻
 
------
-
-*I'm a software developer who is passionate about mobile technologies and open source. My goal is to craft products with an undeniable high quality as a result of placing special attention on UI/UX details, maintainability, and performance.*
+*I'm a software developer who is passionate about mobile technologies and open source. My goal is to craft products with outstanding quality as a result of placing special care on UI/UX details, maintainability, and performance.*
 
 - 📍 &nbsp; Based in Montevideo 🇺🇾 
 - 💼 &nbsp; Working as Mobile developer at [Moove-It](https://moove-it.com/)
