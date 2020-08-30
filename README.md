@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 **Contact me**
 <br> 
 <a href="https://in.linkedin.com/in/donatoaguirre24">
- <img align="left" alt="Donato Aguirre | Linkedin" width="24px" src="https://github.com/donatoaguirre24/donatoaguirre24/blob/master/linkedin.svg" />
+  <img align="left" alt="Donato Aguirre | Linkedin" width="24px" src="https://github.com/donatoaguirre24/donatoaguirre24/blob/master/linkedin.svg" />
 </a>
 <a href="mailto:donatoaguirre24@gmail.com">
   <img align="left" alt="Donato Aguirre | Gmail" width="24px" src="https://github.com/donatoaguirre24/donatoaguirre24/blob/master/gmail.svg" />
