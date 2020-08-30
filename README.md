@@ -6,5 +6,5 @@
 - 💼 &nbsp; Working as Mobile developer at [Moove-It](https://moove-it.com/)
 - 📚 &nbsp; Learning more about Swift and iOS native development
 - 🎓 &nbsp; Studying Computer Engineering at [FING UdelaR](https://www.fing.edu.uy/)
-- 🛠 &nbsp; Building amazing things with React Native, React, Typescript, Firebase, NodeJS
+- 🛠 &nbsp; Building amazing things with React Native, React, Firebase, NodeJS and Typescript
 - 🔗 &nbsp; Reach me on <a href="https://www.linkedin.com/in/donatoaguirre24/">LinkedIn</a>
