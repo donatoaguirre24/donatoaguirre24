@@ -1,24 +1,18 @@
-### Hi there 👋🏻
+### Hi there, I'm Donato 👋🏻
 
-I am a curious and adaptable software developer who takes pride in what he builds and always strives to exceed customer expectations. My goal is to craft products with an undeniable high quality as a result of placing special attention on UI/UX details, maintainability, and performance.
+#### 👨🏻‍💻 &nbsp; About Me
 
-<!--
-**donatoaguirre24/donatoaguirre24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 &nbsp; Made in Uruguay 🇺🇾 
+- 💼 &nbsp; Making awesome stuff as Mobile developer at [Moove-It](https://moove-it.com/)
+- 📚 &nbsp; Learning more about Swift and iOS native development
+- 🎓 &nbsp; Studying Computer Engineering at [FING UdelaR](https://www.fing.edu.uy/)
 
-Here are some ideas to get you started:
+#### ⚙️&nbsp; Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 &nbsp; React Native | Typescript | Firebase
+- 🌐 &nbsp; React | Redux | NextJS | Node | Testing Library 
+- 🔧 &nbsp; Git | Markdown | VsCode | Xcode | iTerm | Jira
 
-**Contact me**
-<br> 
 <a href="https://in.linkedin.com/in/donatoaguirre24">
   <img align="left" alt="Donato Aguirre | Linkedin" width="24px" src="https://github.com/donatoaguirre24/donatoaguirre24/blob/master/linkedin.svg" />
 </a>
