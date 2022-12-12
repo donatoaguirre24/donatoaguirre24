@@ -1,10 +1,9 @@
 ### Hi there, I'm Donato 👋🏻
 
-*I am a software developer passionate about mobile technologies and open source. Highly skilled in application development, testing, and deployment.*
+*I am a software engineer passionate about mobile technologies and open source. ‘80s music and Apple products enthusiast.*
 
 - 📍 &nbsp; Based in Montevideo 🇺🇾 
-- 💼 &nbsp; Working as Team Lead & Mobile Developer at [Moove-It](https://moove-it.com/)
-- 📚 &nbsp; Learning more about Swift and iOS native development
-- 🎓 &nbsp; Studying Computer Engineering at [FING UdelaR](https://www.fing.edu.uy/)
-- 🛠 &nbsp; Building amazing things with React Native and Firebase
+- 💼 &nbsp; Working as Mobile Engineer at [Eight Sleep](https://www.eightsleep.com)
+- 📚 &nbsp; Learning more about SwiftUI and WidgetKit
+- 🛠 &nbsp; Building amazing things with React Native and TypeScript
 - 🔗 &nbsp; Avaliable on [LinkedIn](https://www.linkedin.com/in/donatoaguirre24)
